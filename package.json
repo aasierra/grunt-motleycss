@@ -1,0 +1,46 @@
+{
+  "name": "grunt-motleycss",
+  "description": "A grunt plugin for running Motley CSS during build.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/aasierra/grunt-motleycss",
+  "author": {
+    "name": "Anthony A Sierra",
+    "email": "aasierra@live.com",
+    "url": "http://anthonysierra.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aasierra/grunt-motleycss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aasierra/grunt-motleycss/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/aasierra/grunt-motleycss/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5",
+    "motleycss":"1.0.1"
+  },
+  "dependencies":{
+    "motleycss":"1.0.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
