@@ -1,7 +1,7 @@
 {
   "name": "grunt-motleycss",
   "description": "A grunt plugin for running Motley CSS during build.",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "homepage": "https://github.com/aasierra/grunt-motleycss",
   "author": {
     "name": "Anthony A Sierra",
