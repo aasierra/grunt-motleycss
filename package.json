@@ -1,7 +1,7 @@
 {
   "name": "grunt-motleycss",
   "description": "A grunt plugin for running Motley CSS during build.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/aasierra/grunt-motleycss",
   "author": {
     "name": "Anthony A Sierra",
@@ -32,10 +32,10 @@
     "grunt-contrib-clean": "^0.5.0",
     "grunt-contrib-nodeunit": "^0.3.3",
     "grunt": "~0.4.5",
-    "motleycss":"1.0.3"
+    "motleycss":"1.0.4"
   },
   "dependencies":{
-    "motleycss":"1.0.3"
+    "motleycss":"1.0.4"
   },
   "peerDependencies": {
     "grunt": "~0.4.5"

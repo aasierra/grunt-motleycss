@@ -17,7 +17,7 @@ Once the plugin has been installed, it may be enabled inside your Gruntfile with
 grunt.loadNpmTasks('grunt-motleycss');
 ```
 
-Another option is to add grunt-motleycss to your npm package if that is in your project. use version 1.0.0
+Another option is to add grunt-motleycss to your npm package if that is in your project. use version 1.0.4
 
 ## The "motleycss" task
 
